@@ -1,0 +1,37 @@
+Hotel Room Prices List
+
+=== Floor 3 ===
+Room 301: 950000 Toman 
+Room 302: 860000 Toman 
+Room 303: 980000 Toman 
+Room 304: 960000 Toman 
+Room 305: 870000 Toman 
+Room 306: 1260000 Toman Sea View
+Room 307: 900000 Toman 
+Room 308: 910000 Toman 
+
+=== Floor 2 ===
+Room 201: 630000 Toman 
+Room 202: 830000 Toman 
+Room 203: 980000 Toman Sea View
+Room 204: 1090000 Toman Sea View
+Room 205: 720000 Toman 
+Room 206: 700000 Toman 
+Room 207: 910000 Toman Sea View
+Room 208: 1080000 Toman Sea View
+Room 209: 720000 Toman 
+Room 210: 800000 Toman 
+
+=== Floor 1 ===
+Room 101: 510000 Toman 
+Room 102: 480000 Toman 
+Room 103: 490000 Toman 
+Room 104: 590000 Toman Sea View
+Room 105: 620000 Toman Sea View
+Room 106: 470000 Toman 
+Room 107: 680000 Toman Sea View
+Room 108: 520000 Toman 
+Room 109: 680000 Toman Sea View
+Room 110: 560000 Toman 
+Room 111: 530000 Toman 
+Room 112: 470000 Toman
